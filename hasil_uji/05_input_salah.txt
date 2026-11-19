@@ -1,0 +1,37 @@
+Berhasil memuat 20 baris log dari 'data/log_keamanan.csv'.
+
+=== LOGGUARD - Analisis Log Keamanan ===
+1. Ringkasan rekap event
+2. Filter berdasarkan severity
+3. Cari log berdasarkan IP
+4. Deteksi brute force
+5. Daftar IP unik
+6. Simpan hasil ke file (JSON dan CSV)
+0. Keluar
+
+Pilih menu: Input harus angka. Coba lagi.
+Pilih menu: Pilihan harus 0 sampai 6.
+Pilih menu: Severity (LOW/MEDIUM/HIGH): Severity tidak valid.
+
+=== LOGGUARD - Analisis Log Keamanan ===
+1. Ringkasan rekap event
+2. Filter berdasarkan severity
+3. Cari log berdasarkan IP
+4. Deteksi brute force
+5. Daftar IP unik
+6. Simpan hasil ke file (JSON dan CSV)
+0. Keluar
+
+Pilih menu: Masukkan IP: Input tidak boleh kosong.
+Masukkan IP: Data tidak ditemukan.
+
+=== LOGGUARD - Analisis Log Keamanan ===
+1. Ringkasan rekap event
+2. Filter berdasarkan severity
+3. Cari log berdasarkan IP
+4. Deteksi brute force
+5. Daftar IP unik
+6. Simpan hasil ke file (JSON dan CSV)
+0. Keluar
+
+Pilih menu: Sampai jumpa.

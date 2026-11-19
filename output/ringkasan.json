@@ -1,0 +1,16 @@
+{
+  "total_log": 20,
+  "rekap_event": {
+    "LOGIN_FAILED": 10,
+    "LOGIN_SUCCESS": 4,
+    "PORT_SCAN": 3,
+    "SQL_INJECTION": 1,
+    "FILE_ACCESS": 2
+  },
+  "jumlah_ip_unik": 6,
+  "ip_brute_force": {
+    "198.51.100.23": 5,
+    "192.168.1.10": 3
+  },
+  "log_severity_high": 4
+}

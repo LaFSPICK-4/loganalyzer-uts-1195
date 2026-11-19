@@ -1,0 +1,58 @@
+Berhasil memuat 0 baris log dari 'data/log_kosong.csv'.
+Peringatan: tidak ada data valid, hasil analisis akan kosong.
+
+=== LOGGUARD - Analisis Log Keamanan ===
+1. Ringkasan rekap event
+2. Filter berdasarkan severity
+3. Cari log berdasarkan IP
+4. Deteksi brute force
+5. Daftar IP unik
+6. Simpan hasil ke file (JSON dan CSV)
+0. Keluar
+
+Pilih menu: 
+Rekap event:
+
+=== LOGGUARD - Analisis Log Keamanan ===
+1. Ringkasan rekap event
+2. Filter berdasarkan severity
+3. Cari log berdasarkan IP
+4. Deteksi brute force
+5. Daftar IP unik
+6. Simpan hasil ke file (JSON dan CSV)
+0. Keluar
+
+Pilih menu: Tidak ada IP yang terdeteksi brute force.
+
+=== LOGGUARD - Analisis Log Keamanan ===
+1. Ringkasan rekap event
+2. Filter berdasarkan severity
+3. Cari log berdasarkan IP
+4. Deteksi brute force
+5. Daftar IP unik
+6. Simpan hasil ke file (JSON dan CSV)
+0. Keluar
+
+Pilih menu: IP unik: -
+
+=== LOGGUARD - Analisis Log Keamanan ===
+1. Ringkasan rekap event
+2. Filter berdasarkan severity
+3. Cari log berdasarkan IP
+4. Deteksi brute force
+5. Daftar IP unik
+6. Simpan hasil ke file (JSON dan CSV)
+0. Keluar
+
+Pilih menu: Tidak ada data untuk disimpan.
+
+=== LOGGUARD - Analisis Log Keamanan ===
+1. Ringkasan rekap event
+2. Filter berdasarkan severity
+3. Cari log berdasarkan IP
+4. Deteksi brute force
+5. Daftar IP unik
+6. Simpan hasil ke file (JSON dan CSV)
+0. Keluar
+
+Pilih menu: Sampai jumpa.

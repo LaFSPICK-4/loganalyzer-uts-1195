@@ -1,0 +1,46 @@
+Peringatan: Baris 22 dilewati: kolom 'event' kosong
+Peringatan: Baris 23 dilewati: event 'HACKING' tidak dikenal
+Peringatan: Baris 24 dilewati: severity 'PARAH' tidak valid
+Berhasil memuat 20 baris log dari 'data/log_rusak.csv'.
+
+=== LOGGUARD - Analisis Log Keamanan ===
+1. Ringkasan rekap event
+2. Filter berdasarkan severity
+3. Cari log berdasarkan IP
+4. Deteksi brute force
+5. Daftar IP unik
+6. Simpan hasil ke file (JSON dan CSV)
+0. Keluar
+
+Pilih menu: 
+Rekap event:
+  LOGIN_FAILED  : 10
+  LOGIN_SUCCESS : 4
+  PORT_SCAN     : 3
+  SQL_INJECTION : 1
+  FILE_ACCESS   : 2
+
+=== LOGGUARD - Analisis Log Keamanan ===
+1. Ringkasan rekap event
+2. Filter berdasarkan severity
+3. Cari log berdasarkan IP
+4. Deteksi brute force
+5. Daftar IP unik
+6. Simpan hasil ke file (JSON dan CSV)
+0. Keluar
+
+Pilih menu: 
+IP terdeteksi brute force:
+  198.51.100.23  : 5 kali gagal login
+  192.168.1.10   : 3 kali gagal login
+
+=== LOGGUARD - Analisis Log Keamanan ===
+1. Ringkasan rekap event
+2. Filter berdasarkan severity
+3. Cari log berdasarkan IP
+4. Deteksi brute force
+5. Daftar IP unik
+6. Simpan hasil ke file (JSON dan CSV)
+0. Keluar
+
+Pilih menu: Sampai jumpa.

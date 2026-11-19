@@ -1,0 +1,93 @@
+Berhasil memuat 20 baris log dari 'data/log_keamanan.csv'.
+
+=== LOGGUARD - Analisis Log Keamanan ===
+1. Ringkasan rekap event
+2. Filter berdasarkan severity
+3. Cari log berdasarkan IP
+4. Deteksi brute force
+5. Daftar IP unik
+6. Simpan hasil ke file (JSON dan CSV)
+0. Keluar
+
+Pilih menu: 
+Rekap event:
+  LOGIN_FAILED  : 10
+  LOGIN_SUCCESS : 4
+  PORT_SCAN     : 3
+  SQL_INJECTION : 1
+  FILE_ACCESS   : 2
+
+=== LOGGUARD - Analisis Log Keamanan ===
+1. Ringkasan rekap event
+2. Filter berdasarkan severity
+3. Cari log berdasarkan IP
+4. Deteksi brute force
+5. Daftar IP unik
+6. Simpan hasil ke file (JSON dan CSV)
+0. Keluar
+
+Pilih menu: Severity (LOW/MEDIUM/HIGH):  1. 2026-11-10 09:03:22 | 172.16.5.9     | unknown  | PORT_SCAN      | HIGH
+ 2. 2026-11-10 09:03:25 | 172.16.5.9     | unknown  | PORT_SCAN      | HIGH
+ 3. 2026-11-10 09:30:00 | 203.0.113.50   | guest    | SQL_INJECTION  | HIGH
+ 4. 2026-11-10 14:10:00 | 172.16.5.9     | unknown  | PORT_SCAN      | HIGH
+
+=== LOGGUARD - Analisis Log Keamanan ===
+1. Ringkasan rekap event
+2. Filter berdasarkan severity
+3. Cari log berdasarkan IP
+4. Deteksi brute force
+5. Daftar IP unik
+6. Simpan hasil ke file (JSON dan CSV)
+0. Keluar
+
+Pilih menu: Masukkan IP:  1. 2026-11-10 09:30:00 | 203.0.113.50   | guest    | SQL_INJECTION  | HIGH
+ 2. 2026-11-10 10:12:03 | 203.0.113.50   | guest    | LOGIN_FAILED   | MEDIUM
+ 3. 2026-11-10 10:12:09 | 203.0.113.50   | guest    | LOGIN_FAILED   | MEDIUM
+
+=== LOGGUARD - Analisis Log Keamanan ===
+1. Ringkasan rekap event
+2. Filter berdasarkan severity
+3. Cari log berdasarkan IP
+4. Deteksi brute force
+5. Daftar IP unik
+6. Simpan hasil ke file (JSON dan CSV)
+0. Keluar
+
+Pilih menu: 
+IP terdeteksi brute force:
+  198.51.100.23  : 5 kali gagal login
+  192.168.1.10   : 3 kali gagal login
+
+=== LOGGUARD - Analisis Log Keamanan ===
+1. Ringkasan rekap event
+2. Filter berdasarkan severity
+3. Cari log berdasarkan IP
+4. Deteksi brute force
+5. Daftar IP unik
+6. Simpan hasil ke file (JSON dan CSV)
+0. Keluar
+
+Pilih menu: IP unik: 10.0.0.5, 10.0.0.7, 172.16.5.9, 192.168.1.10, 198.51.100.23, 203.0.113.50
+
+=== LOGGUARD - Analisis Log Keamanan ===
+1. Ringkasan rekap event
+2. Filter berdasarkan severity
+3. Cari log berdasarkan IP
+4. Deteksi brute force
+5. Daftar IP unik
+6. Simpan hasil ke file (JSON dan CSV)
+0. Keluar
+
+Pilih menu: Tersimpan: output/ringkasan.json
+Tersimpan: output/log_high.csv
+
+=== LOGGUARD - Analisis Log Keamanan ===
+1. Ringkasan rekap event
+2. Filter berdasarkan severity
+3. Cari log berdasarkan IP
+4. Deteksi brute force
+5. Daftar IP unik
+6. Simpan hasil ke file (JSON dan CSV)
+0. Keluar
+
+Pilih menu: Sampai jumpa.

@@ -13,7 +13,7 @@ Target pengguna: admin jaringan atau mahasiswa yang ingin cek log dengan cepat.
 
 ## Cara menjalankan
 ```
-cd logguard
+cd loganalyzer-uts-1195
 python main.py
 ```
 Pakai file lain:
@@ -23,7 +23,7 @@ python main.py data/log_rusak.csv
 
 ## Struktur folder
 ```
-logguard/
+loganalyzer-uts-1195/
   main.py                  program utama dan menu
   loganalyzer/             package buatan sendiri
     __init__.py            konstanta (event valid, batas brute force)

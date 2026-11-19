@@ -79,4 +79,4 @@ Skenario bug yang ditemukan dan diperbaiki: saat data kosong, menu simpan menuli
 
 ## Referensi dan bantuan AI
 - Dokumentasi Python: modul csv dan json (docs.python.org).
-- Bantuan AI: Claude (Anthropic) dipakai untuk membantu membuat kerangka kode dan data contoh.
+- Bantuan AI: Claude (Anthropic) dipakai untuk menyusun kerangka kode dan data contoh.

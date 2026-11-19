@@ -78,5 +78,13 @@ loader dan analyzer memakai konstanta dari loganalyzer/__init__.py
 Skenario bug yang ditemukan dan diperbaiki: saat data kosong, menu simpan menulis ringkasan.json kosong tetapi log_high.csv gagal dengan ValueError, sehingga hasil tidak konsisten. Perbaikan: fungsi `simpan_hasil` di main.py sekarang mengecek data kosong lebih dulu, dan hanya membuat CSV jika ada log HIGH.
 
 ## Referensi dan bantuan AI
-- Dokumentasi Python: modul csv dan json (docs.python.org).
-- Bantuan AI: Claude (Anthropic) dipakai untuk menyusun kerangka kode dan data contoh.
+
+Library: hanya standard library Python (csv, json, os, sys).
+
+Referensi:
+- [Python Software Foundation. (2026). csv: CSV file reading and writing. Python 3](https://docs.python.org/3/library/csv.html)
+- [Python Software Foundation. (2026). json: JSON encoder and decoder. Python 3](https://docs.python.org/3/library/json.html)
+- [Python Software Foundation. (2026). os: Miscellaneous operating system interfaces. Python 3](https://docs.python.org/3/library/os.html)
+- [Python Software Foundation. (2026). sys: System-specific parameters and functions. Python 3](https://docs.python.org/3/library/sys.html)
+
+Bantuan AI: Claude (Anthropic) dipakai untuk membantu menyusun kerangka kode dan data contoh.
